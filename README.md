@@ -1,5 +1,10 @@
 
 爬虫IP代理池
+
+
+使用命令安装redis-server    apt install redis-server  !!!!!
+
+
 =======
 [![Build Status](https://travis-ci.org/jhao104/proxy_pool.svg?branch=master)](https://travis-ci.org/jhao104/proxy_pool)
 [![](https://img.shields.io/badge/Powered%20by-@j_hao104-green.svg)](http://www.spiderpy.cn/blog/)
